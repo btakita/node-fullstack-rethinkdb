@@ -1,0 +1,27 @@
+{
+  "name": "node-fullstack-rethinkdb",
+  "version": "0.1.0",
+  "description": "A toolkit to build composable nodejs,fullstack,rethinkdb dom,http,microservice platforms",
+  "author": "Brian Takita <brian.takita@gmail.com>",
+  "contributors": [],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btakita/node-fullstack-rethinkdb"
+  },
+  "bugs": {
+    "url": "https://github.com/btakita/node-fullstack-rethinkdb/issues"
+  },
+  "keywords": [
+    "node-fullstack-rethinkdb",
+    "node",
+    "rethinkdb",
+    "fullstack"
+  ],
+  "dependencies": {
+    "rethinkdb": "2.x"
+  },
+  "devDependencies": {},
+  "analyze": true,
+  "license": "Apache"
+}

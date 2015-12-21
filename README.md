@@ -1,2 +1,2 @@
-# node-rethinkdb-fullstack
-nodejs rethinkdb fullstack base library
+# node-fullstack-rethinkdb
+A toolkit to build composable nodejs,fullstack,rethinkdb dom,http,microservice platforms
